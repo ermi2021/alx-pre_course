@@ -1,5 +1,5 @@
 "# alx-pre_course" 
-"# My name is ermiyas zeleke am Alx- Software Engineering student & this is my first github repository" 
+"# Hello everyone" 
 <<<<<<< HEAD
 "# My name is ermiyas zeleke am Alx- Software Engineering student & this is my first github repository" 
 "project 0x02-git" 
